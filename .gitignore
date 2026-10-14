@@ -1,0 +1,7 @@
+venv/
+proyecto001/
+.aws/
+credentials
+*.env
+.vscode/
+__pycache__/

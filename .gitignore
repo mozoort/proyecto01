@@ -1,7 +1,6 @@
 venv/
-proyecto001/
-.aws/
-credentials
-*.env
-.vscode/
+.venv/
 __pycache__/
+*.pyc
+.env
+.DS_Store
